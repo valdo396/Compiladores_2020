@@ -1,0 +1,6 @@
+digraph automata{
+	rankdir="LR";
+	node[shape="point"]; inicial;
+	node[shape="doublecircle"]; 6;
+	inicial-> 1   [label="Inicio"] ;
+}
